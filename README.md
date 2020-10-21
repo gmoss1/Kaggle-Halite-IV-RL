@@ -29,5 +29,5 @@ The particular training algorithm used is Proximal Policy Optimization (PPO) - h
 After training, the resulting neural network is saved (along with checkpoints throughout). A game is played (against
 itself or basic hard-coded opponents) and then visualized.
 
-As the training takes a long time to progress, some trained checkpoints are provided that can be used. Will need to specify
+As the training takes a long time to progress, a trained checkpoint is provided that can be used to view the results. Will need to specify
 the path to the checkpoints in main.py to use them.
